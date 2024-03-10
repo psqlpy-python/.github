@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Task manager for humans</h2>
+<h2>New-era python ORM</h2>
 
 </div>
 
