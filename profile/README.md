@@ -1,3 +1,3 @@
 <div align="center">
 
-<h2>New view on PostgreSQL with Python</h2>
+<h2>New view on PostgreSQL with Rust and Python</h2>
