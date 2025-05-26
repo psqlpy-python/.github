@@ -1,5 +1,7 @@
 <div align="center">
 
+![alt text](https://github.com/psqlpy-python/.github/blob/main/logo.png)
+
 <h2>New view on PostgreSQL with Rust and Python</h2>
 
 PsycoPG and AsyncPG inspire this project. We found that communication with the database can be faster and safer, and tried to implementa  new PostgreSQL driver in Rust for Python.
